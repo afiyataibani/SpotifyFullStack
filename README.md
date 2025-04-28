@@ -1,3 +1,10 @@
+![Screenshot 2025-04-28 195827](https://github.com/user-attachments/assets/852990a4-dbc8-45be-a40f-d05ef18672b2)
+![Screenshot 2025-04-28 195802](https://github.com/user-attachments/assets/20cece99-85e8-45c7-9a7b-ca6b3bb710e0)
+![Screenshot 2025-04-28 195732](https://github.com/user-attachments/assets/033ff169-2cbe-4333-88ba-1b4f26f781be)
+![Screenshot 2025-04-28 195703](https://github.com/user-attachments/assets/4b77a1c9-d33a-48c7-8715-fbfa6891947e)
+![Screenshot 2025-04-28 195638](https://github.com/user-attachments/assets/57b91ccd-7705-4673-b8b9-b87867d67967)
+![Screenshot 2025-04-28 195617](https://github.com/user-attachments/assets/7aa1b57e-f1c7-42c9-9298-1d5fb94c5ed1)
+![Screenshot 2025-04-28 195527](https://github.com/user-attachments/assets/7f211825-3cef-4863-b151-daa12306b35e)
 <body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px;">
 
   <h1>🎵 Spotify Full Stack Project</h1>
